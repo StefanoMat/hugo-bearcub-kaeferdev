@@ -86,5 +86,5 @@ enableRobotsTXT = true
   # email is also added to the footer of each post. You can hide the "reply to"
   # link by using a `hideReply` param in front matter.
   [params.author]
-    name = "John Doe" # Your name as shown in the RSS feed metadata
-    email = "me@example.com" # Added to the footer so readers can reply to posts
+    name = "Stefano Kaefer" # Your name as shown in the RSS feed metadata
+    email = "stefanokaefer@gmail.com" # Added to the footer so readers can reply to posts

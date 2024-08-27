@@ -1,0 +1,3 @@
+{{ with .Site.Params.author.email }}
+<a href='mailto:{{ . }}?subject={{ i18n "email-subject" }}"Stefano%20Kaefer%20Website"'>email</a>
+{{ end }}
