@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://kaeferdev.com/"
+baseURL = "https://kaeferdev.com/hugo-bearcub-kaeferdev/"
 languageCode = 'en-us'
 theme = "hugo-bearcub"
 copyright = "Stefano Kaefer"
