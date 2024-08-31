@@ -9,8 +9,17 @@
     <managingEditor>stefanokaefer@gmail.com (Stefano Kaefer)</managingEditor>
     <webMaster>stefanokaefer@gmail.com (Stefano Kaefer)</webMaster>
     <copyright>Stefano Kaefer</copyright>
-    <lastBuildDate>Tue, 27 Aug 2024 12:59:02 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 23:20:45 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/hugo-bearcub-kaeferdev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Spring on Amazon with Elastic Beanstalk! [PT]</title>
+      <link>http://localhost:1313/hugo-bearcub-kaeferdev/blog/java-deploy-eb/</link>
+      <pubDate>Fri, 30 Aug 2024 23:20:45 -0300</pubDate><author>stefanokaefer@gmail.com (Stefano Kaefer)</author>
+      <guid>http://localhost:1313/hugo-bearcub-kaeferdev/blog/java-deploy-eb/</guid>
+      <description>Read on an external resource here</description>
+      <content:encoded><![CDATA[<p>Read on an external resource <a href="https://stefanokaefer.medium.com/java-spring-na-amazon-com-elastic-beanstalk-96589d8ebf60" target="_blank" rel="noopener noreferrer">here</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>API Requests Up to 85% Faster [PT]</title>
       <link>http://localhost:1313/hugo-bearcub-kaeferdev/blog/api-performance-redis-nest/</link>

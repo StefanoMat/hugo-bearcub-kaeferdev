@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/hugo-bearcub-kaeferdev/</loc>
-    <lastmod>2024-08-27T12:59:02-03:00</lastmod>
+    <lastmod>2024-08-30T23:20:45-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
@@ -16,7 +16,10 @@
                 />
   </url><url>
     <loc>http://localhost:1313/hugo-bearcub-kaeferdev/blog/</loc>
-    <lastmod>2024-08-27T12:59:02-03:00</lastmod>
+    <lastmod>2024-08-30T23:20:45-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-bearcub-kaeferdev/blog/java-deploy-eb/</loc>
+    <lastmod>2024-08-30T23:20:45-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugo-bearcub-kaeferdev/blog/api-performance-redis-nest/</loc>
     <lastmod>2024-08-27T12:59:02-03:00</lastmod>
