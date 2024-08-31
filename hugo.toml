@@ -41,7 +41,7 @@ enableRobotsTXT = true
 [params]
   # The description of your website
   description = "This is my website. I created it to store and publish content that I find interesting and relevant to my software engineering career."
-
+  defaultImage= "favicon_modern.ico"
   # The path to your favicon
   favicon = "favicon_modern.ico"
 
