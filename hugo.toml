@@ -40,7 +40,7 @@ enableRobotsTXT = true
 
 [params]
   # The description of your website
-  description = "Bear Cub Demo"
+  description = "This is my website. I created it to store and publish content that I find interesting and relevant to my software engineering career."
 
   # The path to your favicon
   favicon = "favicon_modern.ico"
