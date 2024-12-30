@@ -29,14 +29,5 @@
       <content:encoded><![CDATA[<p>Read on an external resource <a href="https://stefanokaefer.medium.com/requisi%C3%B5es-de-api-at%C3%A9-85-mais-r%C3%A1pidas-f52f3180ea41" target="_blank" rel="noopener noreferrer">here</a></p>
 ]]></content:encoded>
     </item>
-    <item>
-      <title>Meu Primeiro Post</title>
-      <link>http://localhost:1313/hugo-bearcub-kaeferdev/blog/meu-primeiro-post/</link>
-      <pubDate>Tue, 27 Aug 2024 12:46:16 -0300</pubDate><author>stefanokaefer@gmail.com (Stefano Kaefer)</author>
-      <guid>http://localhost:1313/hugo-bearcub-kaeferdev/blog/meu-primeiro-post/</guid>
-      <description>Hello World</description>
-      <content:encoded><![CDATA[<p>Hello World</p>
-]]></content:encoded>
-    </item>
   </channel>
 </rss>
